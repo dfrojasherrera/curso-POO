@@ -1,0 +1,40 @@
+
+El pensamiento orientado a objetos: 
+    -Surge de la necesidad de resolver un problema de forma más simple, que te permite analizarlo e identificar cada objeto que lo integra.
+    -Está compuesto por 4 elementos: Clases - Propiedades - Métodos - Objetos
+
+
+¿Qué nos ayuda a resolver la POO?
+
+    - Huecos que la programación estructurada no resuelve, por lo que la estructuración por objetos surgió como una solución.
+    - Ayuda a leer, depurar y mantener código que puede ser muy largo.
+    - Evita que todo se rompa si algo falla.
+    - Facilita el mantenimiento del código.
+    - Evita generar un código espaguetti. Aquél que tiene demasiadas sentencias de control anidadas.
+
+
+
+La programación orientada a objetos tiene cuatro pilares principales:
+
+    - Encapsulamiento. Quiere decir que oculta datos mediante código.
+    - Abstracción. Es como se pueden representar los objetos en modo de código.
+    - Herencia. Es donde una clase nueva se crea a partir de una clase existente.
+    - Polimorfismo. Se refiere a la propiedad por la que es posible enviar mensajes sintácticamente iguales a objetos de tipos distintos.
+
+
+Lenguajes con los que podemos aprender a programar orientados a objetos son:
+
+    -Java
+    -PHP
+    -Python
+    -JavaScript
+    -C#
+    -Ruby
+    -Kotlin
+
+
+
+
+
+
+
