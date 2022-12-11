@@ -1,0 +1,5 @@
+Para los diagramas existen varias herramientas, algunas de ellas son:
+
+    - ArgoUML
+    - SunUML
+    - StarUML (Ésta última es muy completa y con ella se pueden realizar también Modelos Entidad Relación para el diseño conceptual en base de datos relacionales)
